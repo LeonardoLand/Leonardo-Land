@@ -28,7 +28,8 @@ Front-end & Banco de Dados
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" alt="Git" />
 </div>
 
-📫 Vamos conversar?
-LinkedIn: linkedin.com/in/leonardo-land
+### 📫 Vamos conversar?
 
-E-mail: leonardoramalholand@gmail.com
+* **LinkedIn**: [linkedin.com/in/leonardo-land](https://www.linkedin.com/in/leonardo-land/)
+* **E-mail**: [leonardoramalholand@gmail.com](mailto:leonardoramalholand@gmail.com)
+
